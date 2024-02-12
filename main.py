@@ -4,6 +4,7 @@ from unittest import main
 
 
 print(add_time("11:06 PM", "2:02"))
+print(add_time("8:16 PM", "466:02"))
 
 
 # Run unit tests automatically
